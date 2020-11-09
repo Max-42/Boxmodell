@@ -1,6 +1,11 @@
 h1{
-    width: 340;
+    width: 340px;
     font-size: 20px;
     color: #a02020;
     background-color: #ffdf00;
+    border-left: 8px;
+    border-color: hsl(240, 100%, 31%);
+    text-align: center;
+    margin-left: 100px;
+    
 }
